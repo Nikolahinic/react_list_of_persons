@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    background-color: lightseagreen;
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+    width: 300px;
+    margin: 10px;
+}
